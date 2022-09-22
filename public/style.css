@@ -1,0 +1,31 @@
+:root {
+    font-family: -apple-system, SF UI Text, PingFang SC, Hiragino Sans GB,
+        Microsoft YaHei, WenQuanYi Micro Hei, Helvetica Neue, Helvetica, Arial,
+        sans-serif;
+}
+
+html,
+body {
+    width: 100%;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: gray;
+}
+
+.profile .screenname {
+    font-size: large;
+    font-weight: bold;
+}
+
+.profile .link {
+    display: block;
+    color: gray;
+}
+
+.profile .bio {
+    font-style: italic;
+}
